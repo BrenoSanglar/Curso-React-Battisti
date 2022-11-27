@@ -6,7 +6,7 @@ function Pessoa({nome, idade, profissao, foto}){
                 <p>Idade: {idade}</p>
                 <p>Profissao: {profissao}</p>
             </div>
-    )
+    ) 
 }
 
 export default Pessoa
